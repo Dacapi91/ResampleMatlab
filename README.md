@@ -6,4 +6,5 @@ The following link explains the usage of this code: https://medium.com/analytics
 If you use this script for academic, research or personal purposes please cite it as:
 Dacapi91. (2020, January 23). Dacapi91/ResampleMatlab: First version (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.3626148
 
+https://github.com/Dacapi91/ResampleMatlab/issues/1
 
